@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Soccer Controller</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_play">Play</string>
+    <string name="action_settings">Settings</string>
+    <string name="ChooseSong">Choose File to Play</string>
+    <string-array name="Songs">
+        <item>Aja.mp3</item>
+        <item>Slit Skirts.mp3</item>
+        <item>When the Levee Breaks.mp3</item>
+    </string-array>
+</resources>
